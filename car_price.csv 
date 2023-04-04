@@ -1,0 +1,11 @@
+ID, Brand, Model, Year, Mileage, Color, Price
+1, Toyo#ta, Camry, 2016, 45000, Blue, $15200
+2, Ford, F150, 2018, 32000, Red, 28500
+3, Tesla, Model 3, , 12000, White, $39000
+4, Honda, Civic, 2017, 30000, , 15500
+5, , CR-V, 2020, 22000, Black, $27000
+6, Chevrolet, Malibu, 2019, , Gray, $18900
+7, BMW, 3 Series, 2014, 72000, White, $17000
+8, Nissan, Altima, 2013, 110000, Silver, 9500
+9, Toyo@ta, Corolla, 2018, 37000, Black, $16300
+10, Audi, A4, 2015, 60000, Blue, 21000
