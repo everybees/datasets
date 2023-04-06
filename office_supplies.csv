@@ -1,0 +1,41 @@
+OrderDate,Region,Rep Name,Ite2m,Units,UnitPrice
+2023-03-01,East,Tom,Stapler,16,15
+26/02/2023,West,Alice,Pencil,25,0.5
+01-04-2023,South,John,Notepad,12,3
+2023-03-11,west,Jane,pen,5,1.5
+2023-02-15,East,Bob,Scissors,8,7.5
+03/06/2023,North,Linda,Binder,20,4.5
+2023-01-23,South,John,Highlighter,30,1
+2023-02-05,North,Luke,Staples,25,0.2
+2023-03-18,East,Tom,Pen,15,1.5
+14/03/2023,West,Alice,Marker,20,2
+2023-02-28,South,John,white board,1,20
+2023-01-21,North,Linda,Notebook,12,3
+2023-03-29,East,Bob,tape,5,2
+04-01-2023,West,Alice,Glue Stick,20,0.75
+2023-02-22,South,John,Paper Clips,50,0.1
+2023-02-01,East,Tom,Pencils,30,0.5
+2023-03-15,West,Jane,Binder,12,4.5
+2023-02-17,North,Linda,Envelopes,40,0.25
+01/08/2023,East,Bob,stapler,6,15
+2023-01-31,West,Alice,highlighter,30,1
+2023-04-02,East,Bob,Marker,20,2
+2023-03-30,North,Luke,Notepad,10,3
+02-04-2023,West,Jane,Paper Clips,40,0.1
+2023-04-05,South,John,Glue Stick,15,0.75
+2023-03-28,West,Alice,Scissors,7,7.5
+2023-04-01,North,Linda,Pen,20,1.5
+08/04/2023,East,Tom,Notebook,18,3
+2023-04-03,South,John,Envelopes,30,0.25
+2023-03-27,West,Jane,Tape,10,2
+04/10/2023,East,Bob,Staples,20,0.2
+2023-03-20,North,Luke,Pencil,35,0.5
+2023-04-04,West,Alice,White Board,2,20
+2023-03-25,East,Tom,Binder,15,4.5
+2023-03-22,South,John,Highlighter,25,1
+2023-03-19,North,Linda,Pencils,28,0.5
+2023-03-14,West,Jane,Stapler,10,15
+2023-03-16,East,Bob,Pen,10,1.5
+12/03/2023,South,John,Glue Stick,18,0.75
+2023-03-10,North,Luke,Notebook,14,3
+2023-04-06,East,Tom,Paper Clips,45,0.1
